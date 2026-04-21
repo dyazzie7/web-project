@@ -6,3 +6,4 @@
 # My web page is about a company challenge.
 # I learned that creating css and html takes a lot of time and patience. Which I do not have.
 # Yes, having to go back and forth to make correction or deleting sections to start all over. I don't even know if I'm doing the readme.md correctly. I don't know how to add a new section, so I'm adding to the Project 2 section. 
+# I've also learned not to make changes in gitHub. I need to make the changes in Visual Studio and git push, boy did i confuse myself. 
